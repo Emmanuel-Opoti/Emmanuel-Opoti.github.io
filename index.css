@@ -110,3 +110,10 @@ font-size: 30px;
     color: white;
     font-size: 30px;
     }
+/*--------PORTFOLIO-------*/
+
+.portfolio-title{
+    color: white;
+    font-size: 60px;
+    font-weight: bolder;
+}
